@@ -121,12 +121,6 @@
       "descCust": "Custom messages will now be used for Would You commands."
     }
   },
-  "Custom": {
-    "embed": {
-      "title": "Would you want this power?",
-      "footer": "Would You"
-    }
-  },
   "WouldYou": {
     "embed": {
       "Usefulname": "Would you want this power?",
