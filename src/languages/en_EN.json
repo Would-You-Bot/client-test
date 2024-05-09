@@ -178,9 +178,6 @@
     },
     "replays": {
       "disabled": "Replaying in this server is currently disabled!"
-    },
-    "button": {
-      "nocustom": "There's currently no custom Would You messages to be displayed! Either make some or change the type using /Would You type"
     }
   },
   "REPLAY": {
