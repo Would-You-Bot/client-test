@@ -10,10 +10,12 @@
 files: [
   {
     "source": "src/languages/en_EN.json",
+    "dest": "General.json",
     "translation": "src/languages/%locale_with_underscore%.json",
   },
   {
     "source": "src/languages/commands/en_EN.json",
+    "dest": "Command Description.json",
     "translation": "src/languages/commands/%locale_with_underscore%.json",
   }
 ]
