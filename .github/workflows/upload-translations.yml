@@ -1,6 +1,7 @@
 name: Upload Translations
 
 on:
+  workflow_dispatch:
   push:
     paths: [ 'src/languages/**' ]
     branches: [ main ]
