@@ -1,0 +1,18 @@
+{
+  "custom": "Ajoute des messages personnalisés au bot",
+  "debug": "Déboguez le bot \"Would You\"",
+  "guide": "Un guide simple sur la façon d'utiliser le bot pour augmenter l'activité",
+  "help": "Une liste de chaque commande",
+  "info": "Affiche des informations sur le bot",
+  "language": "Changer la langue du serveur actuel",
+  "neverhaveIever": "Afficher une question que je n'ai jamais posée",
+  "ping": "Affiche le ping du client",
+  "reload": "Recharge une commande",
+  "settings": "Modifier les paramètres des messages quotidiens et des messages de bienvenue",
+  "support": "Lien vers notre serveur d'assistance",
+  "type": "Modifie le type de messages qui seront utilisés.",
+  "vote": "Votez pour le bot pour nous soutenir",
+  "wouldyourather": "Obtenez une question préférez-vous.",
+  "wwyd": "Que feriez-vous dans cette situation",
+  "higherlower": "Commence le jeu supérieur ou inférieur"
+}

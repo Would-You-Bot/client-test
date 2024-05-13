@@ -12,4 +12,8 @@ files: [
     "source": "src/languages/en_EN.json",
     "translation": "src/languages/%locale_with_underscore%.json",
   }
+  {
+    "source": "src/languages/commands//en_EN.json",
+    "translation": "src/languages/commands/%locale_with_underscore%.json",
+  }
 ]

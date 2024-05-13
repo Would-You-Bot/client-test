@@ -1,0 +1,18 @@
+{
+  "custom": "Fügt dem Bot benutzerdefinierte Nachrichten hinzu",
+  "debug": "Debuggen Sie den Bot",
+  "guide": "Eine einfache Anleitung zum Benutzen des Bots um die Aktivität zu erhöhen",
+  "help": "Eine Liste aller Befehle",
+  "info": "Alle wichtigen Infos über den Bot.",
+  "language": "Sprache für den aktuelle Server ändern",
+  "neverhaveIever": "Eine noch nie habe ich frage anzeigen",
+  "ping": "Zeigt die Latenz des Clients an",
+  "reload": "Lädt einen Befehl neu.",
+  "settings": "Einstellungen für tägliche Nachrichten und Begrüßungen ändern",
+  "support": "Trete unserem Support Server bei",
+  "type": "Ändert die Art der Nachrichten, die verwendet werden.",
+  "vote": "Vote für den Bot, um uns zu unterstützen",
+  "wouldyourather": "Zeigt eine würdest du eher frage.",
+  "wwyd": "Was würden Sie in dieser Situation tun",
+  "higherlower": "Startet höher oder niedriger spiel"
+}

@@ -1,0 +1,18 @@
+{
+  "custom": "Añade mensajes personalizados al bot",
+  "debug": "Depurar el bot Would You",
+  "guide": "Una guía simple sobre cómo usar el bot para incrementar la actividad",
+  "help": "Una lista de todos los comandos",
+  "info": "Muestra información sobre el bot",
+  "language": "Cambia el idioma para el servidor actual",
+  "neverhaveIever": "Mostrar una pregunta nunca he",
+  "ping": "Muestra la latencia del cliente",
+  "reload": "Recarga un comando",
+  "settings": "Cambiar la configuración de Mensajes Diarios y Bienvenidas",
+  "support": "Enlace a nuestro servidor de soporte",
+  "type": "Cambia el tipo de mensajes que se utilizarán.",
+  "vote": "Vota el bot para apoyarnos",
+  "wouldyourather": "Consigue una pregunta que prefieres.",
+  "wwyd": "Qué harías en este caso",
+  "higherlower": "Comienza la partida de superior o inferior"
+}

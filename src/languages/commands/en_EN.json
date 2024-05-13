@@ -1,0 +1,18 @@
+{
+  "custom": "Adds custom messages to the bot",
+  "debug": "Debug the would you bot",
+  "guide": "A simple guide about how to use the bot to increase activity",
+  "help": "A list of every command",
+  "info": "Shows information about the bot",
+  "language": "Change the language for the current guild",
+  "neverhaveIever": "Display a never have I ever question",
+  "ping": "Displays the clients ping",
+  "reload": "Reloads a command",
+  "settings": "Change settings for Daily Messages and Welcomes",
+  "support": "Link to our support server",
+  "type": "Changes the type of messages that will be used.",
+  "vote": "Vote for the bot to support us",
+  "wouldyourather": "Get a would you rather question.",
+  "wwyd": "What would you do in this situation",
+  "higherlower": "Starts the higher or lower game"
+}
